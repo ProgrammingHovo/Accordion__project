@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/accordion_project/static/css/main.e7485ef8.css",
-    "main.js": "/accordion_project/static/js/main.80575654.js",
-    "static/js/787.f3cdfc57.chunk.js": "/accordion_project/static/js/787.f3cdfc57.chunk.js",
-    "index.html": "/accordion_project/index.html",
-    "main.e7485ef8.css.map": "/accordion_project/static/css/main.e7485ef8.css.map",
-    "main.80575654.js.map": "/accordion_project/static/js/main.80575654.js.map",
-    "787.f3cdfc57.chunk.js.map": "/accordion_project/static/js/787.f3cdfc57.chunk.js.map"
+    "main.css": "/Accordion__project/static/css/main.e7485ef8.css",
+    "main.js": "/Accordion__project/static/js/main.3504c580.js",
+    "static/js/787.f3cdfc57.chunk.js": "/Accordion__project/static/js/787.f3cdfc57.chunk.js",
+    "index.html": "/Accordion__project/index.html",
+    "main.e7485ef8.css.map": "/Accordion__project/static/css/main.e7485ef8.css.map",
+    "main.3504c580.js.map": "/Accordion__project/static/js/main.3504c580.js.map",
+    "787.f3cdfc57.chunk.js.map": "/Accordion__project/static/js/787.f3cdfc57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7485ef8.css",
-    "static/js/main.80575654.js"
+    "static/js/main.3504c580.js"
   ]
 }
